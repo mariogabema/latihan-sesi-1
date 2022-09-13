@@ -1,0 +1,17 @@
+1. compiler.
+- compiler akan mengonversi kode sumber menjadi machine code (membuat berkas executable) sebelum program tersebut dijalankan
+- interpreter mengonversi source code menajdi machine code secara langsung ketika program dijalankan
+
+2. kegunaan C++
+- memudahkan pembuatan aplikasi
+- ukuran sebuah program bisa lebih kecil
+- menguraikan perintah menjadi lebih sederhana
+- mencegah terjadinya perulangan
+- dapat menggunakan kode yang sama meskipun berbeda aplikasi
+- dapat memecah bagian-bagian aplikasi
+- dapat menyembunyikan fitur-fitur dari sisi penggguna
+- dapat melacak kesalahan dengan mudah
+
+3. C++ merupakan bahasa pemograman yang tersutruktur dan memiliki keunikan untuk membangun sistem operasi hingga video grafis
+
+4. bahasa C dan C++ berjalan dengan menggunakan hardware dengan sangat baik dan mudah dipahami
